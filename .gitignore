@@ -8,5 +8,7 @@ venv/
 *.class
 *_backup.*
 *_bytecode.*
-*.txt
+python/search_engine.py.txt
+java/working_code.txt
+java/RentalSearch_working_bytecode.txt
 java/cd
