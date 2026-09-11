@@ -1,0 +1,19 @@
+id,location,estate,type,rent,bedrooms,bathrooms,water,parking,security,furnished,distance_to_town,phone,description,image
+1,Kianyaga,Kianyaga Town,Bedsitter,7000,0,1,Yes,No,Yes,No,1 km,0700000001,"Affordable bedsitter near Kianyaga Town"
+2,Kianyaga,Kibirigwi,1 Bedroom,10000,1,1,Yes,Yes,Yes,No,2 km,0700000002,"Spacious one bedroom with parking and reliable water"
+3,Kutus,Kutus Town,2 Bedroom,15000,2,1,Yes,Yes,Yes,No,1 km,0700000003,"Two bedroom house close to Kutus Town"
+4,Kerugoya,Kiamaina,1 Bedroom,12000,1,1,Yes,No,Yes,No,3 km,0700000004,"Quiet one bedroom in Kiamaina"
+5,Sagana,Sagana Town,2 Bedroom,18000,2,2,Yes,Yes,Yes,Yes,1 km,0700000005,"Furnished two bedroom near Sagana Town"
+6,Kianyaga,Ngiriambu,2 Bedroom,16000,2,1,Yes,Yes,Yes,No,2 km,0700000006,"Two bedroom home with parking and reliable water"
+7,Kerugoya,Kerugoya Town,Bedsitter,6500,0,1,No,No,No,No,1 km,0700000007,"Budget bedsitter near Kerugoya Town"
+8,Kianyaga,Kianyaga Town,1 Bedroom,11000,1,1,Yes,Yes,Yes,No,1 km,0700000008,"Convenient one bedroom close to town"
+9,Kutus,Kutus Town,1 Bedroom,9000,1,1,Yes,No,Yes,No,2 km,0700000009,"Affordable one bedroom in Kutus"
+10,Kerugoya,Kerugoya Town,2 Bedroom,17000,2,2,Yes,Yes,Yes,No,2 km,0700000010,"Modern two bedroom with parking"
+11,Sagana,Sagana Town,Bedsitter,8000,0,1,Yes,No,Yes,No,1 km,0700000011,"Simple bedsitter near Sagana Town"
+12,Kianyaga,Kibirigwi,3 Bedroom,22000,3,2,Yes,Yes,Yes,No,3 km,0700000012,"Spacious three bedroom suitable for a family"
+13,Kutus,Kutus Town,2 Bedroom,14000,2,1,Yes,Yes,No,No,2 km,0700000013,"Affordable two bedroom with parking"
+14,Kerugoya,Kiamaina,1 Bedroom,10500,1,1,Yes,Yes,Yes,No,2 km,0700000014,"One bedroom with parking in Kiamaina"
+15,Sagana,Sagana Town,3 Bedroom,25000,3,2,Yes,Yes,Yes,Yes,1 km,0700000015,"Furnished three bedroom near Sagana Town",Rent.jpeg
+16,Kutus,Kiamiciri,Single Room,5000,0,0,Yes,No,Yes,No,2.0 km,0798765432,Single room near Kutus,Rentals.jpeg
+17,Kianyaga,Kianyaga Town,1 Bedroom,12500,1,1,Yes,Yes,Yes,No,1.0 km,0700000043,Test one bedroom property added through Rental Finder,House.jpeg
+18,Kianyaga,Kianyaga Town,Bedsitter,8000,0,1,Yes,No,Yes,No,1.0 km,0700987654,Spacious Bedsitter in Kianyaga Town,Rentalfinder.jpeg
