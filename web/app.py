@@ -26,7 +26,7 @@ def home():
 
 @app.route("/search")
 def search():
-    location = request.args.get("location", "Any")
+    location = request.args.get("location", "Any").strip()
     max_rent = request.args.get("max_rent", "999999999")
     bedrooms = request.args.get("bedrooms", "Any")
     water = request.args.get("water", "Any")
